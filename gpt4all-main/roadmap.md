@@ -8,8 +8,8 @@ Each item should have an issue link below.
     - [ ] Chinese
     - [ ] German
     - [ ] French
-    - [x] Portuguese
-    - [ ] Your native language here. 
+    - [ ] Portuguese
+    - [x] Your native language here. 
 - UI Redesign: an internal effort at Nomic to improve the UI/UX of gpt4all for all users.
     - [x] Design new user interface and gather community feedback
     - [x] Implement the new user interface and experience.
@@ -39,7 +39,7 @@ Each item should have an issue link below.
             - Chat with live version of Wikipedia, Chat with Pubmed, chat with the latest snapshot of world news.
 - First class Multilingual LLM Support
     - [ ] Recommend and set a default LLM for German
-    - [ ] Recommend and set a default LLM for English
+    - [x] Recommend and set a default LLM for English
     - [ ] Recommend and set a default LLM for Chinese
     - [ ] Recommend and set a default LLM for Spanish
 
